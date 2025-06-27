@@ -2,7 +2,7 @@
 
 ### 👥 **Integrantes**  
 - Andrea del Carmen Lopez Ortiz - **GitHub**: @AndreaDelCarmen
-- Kevin Yahir Sánchez Rosas - **GitHub**: @  
+- Kevin Yahir Sánchez Rosas - **GitHub**: @KevinYSR19
 - Efraín Hernandez Rivas - **GitHub**: @efrainrivas
   
 
