@@ -16,3 +16,4 @@
 
 ### ✅ **Responsabilidades**  
 *(pendiente)*
+uwu
