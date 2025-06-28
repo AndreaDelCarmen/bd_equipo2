@@ -7,7 +7,7 @@
   
 
 ### 📌 **Actividades**  
-- 📁 Actividad 1: Actividad audiovisual: El sistema que mueve mi escuela. Unidad: Fundamentos de los Sistemas de Información. Video.
+- 📁 Actividad 2: Actividad audiovisual: El sistema que mueve mi escuela. Unidad: Fundamentos de los Sistemas de Información. Video.
 
 ### 📌 **Practicas**  
 - 📁 *(pendiente)*
